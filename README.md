@@ -33,3 +33,5 @@ Popular Tags: Tags such as 'hindi songs', '2021 hindi songs', and 'new hindi son
 Monthly Distribution
 Videos and Likes by Month: Data shows trends in video uploads and likes throughout the months of the year, with notable peaks in specific months.
 This project provides valuable insights into the trends and popularity of YouTube songs, helping to understand what content resonates most with viewers.
+
+https://app.powerbi.com/reportEmbed?reportId=9f69292e-181d-4792-8907-7e695d5b9648&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c 
